@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+.card{
+    color: black;
+}
+
+img{
+    width: 10px;
+    height: 150px;
+}
